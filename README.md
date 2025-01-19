@@ -4,7 +4,7 @@ We demonstrate the efficacy of our approach on a leading benchmark ZeuriCrop dat
 
 Below is the figure of the proposed AR-STAR cell
 
-![image](https://github.com/user-attachments/assets/7666923c-ace0-4678-8e24-5c387fcd6acd)
+![Image Description]([https://url-to-your-image.com/your-image.png](https://github.com/kulvanth5/AR-STAR/blob/main/arelu/arelu%20ms%20convSTAR/imgs/ar-star.png))
 
 The Attention-based ReLU effectively highlights critical aspects of feature distinction within the data. By amplifying positive features, it accentuates components associated with desired outputs, making them more accessible to the network’s decision process. Meanwhile, suppressing negative features reduces noise, preventing weak or irrelevant signals from influencing the model. This change enables the STAR cell to create a clear distinction b/w the features and  capture temporal and spatial patterns in most essential way. It is also computationally less intensive than other activation functions.
 
